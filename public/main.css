@@ -1,0 +1,30 @@
+.eth-vid, video {
+  position: relative;
+  height: 300px;
+  ​width: 100%;
+  /* margin: 0 auto; */
+  display: block;
+}
+
+
+.vid-player {
+  /* padding: 2rem; */
+  margin: 1rem;
+  border: 3px;
+  border-color: purple;
+  border-style: solid;
+  border-width: medium;
+}
+
+/* .show-link {
+  text-align: center;
+} */
+
+form {
+  padding-bottom: 5rem;
+  /* display: inline-block; */
+}
+
+h1 {
+  text-align: center;
+}
